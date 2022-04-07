@@ -1,0 +1,12 @@
+C:\Users\AGU\source\repos\Atestat\Atestat\bin\Debug\Atestat.exe.config
+C:\Users\AGU\source\repos\Atestat\Atestat\bin\Debug\Atestat.exe
+C:\Users\AGU\source\repos\Atestat\Atestat\bin\Debug\Atestat.pdb
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.csprojAssemblyReference.cache
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.Form1.resources
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.Properties.Resources.resources
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.csproj.GenerateResource.cache
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.csproj.CoreCompileInputs.cache
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.exe
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.pdb
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.Form3.resources
+C:\Users\AGU\source\repos\Atestat\Atestat\obj\Debug\Atestat.Form2.resources
